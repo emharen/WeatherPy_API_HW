@@ -1,0 +1,5 @@
+The highest maximum temperatures are indeed concentrated at the equator.
+The max temperatures decrease more rapidly as the latitude increases than when the latitude decreases.
+While wind speed is for the most part consistent across latitudes, the highest windspeeds are occurring in the far northern latitudes. 
+Humidity and cloudiness do not have significant changes dependent on latitude. 
+
